@@ -7,8 +7,6 @@ edition = "2021"
 name = "test"
 
 [dependencies]
-anyhow = "1.0.94"
-human-panic = "2.0.2"
 quick-xml = "0.37.1"
 sevenz-rust = "0.6.1"
 
