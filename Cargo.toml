@@ -1,0 +1,14 @@
+[package]
+name = "yuki"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "test"
+
+[dependencies]
+anyhow = "1.0.94"
+human-panic = "2.0.2"
+quick-xml = "0.37.1"
+sevenz-rust = "0.6.1"
+
